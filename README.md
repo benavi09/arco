@@ -1,2 +1,1 @@
-# arco
-soy Ian Leonardo 
+# Plantilla-del-Proyecto-C15
